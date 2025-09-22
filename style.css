@@ -1,0 +1,12 @@
+
+.section-title {
+  @apply text-xl font-semibold mb-4;
+}
+
+.input-box {
+  @apply border p-2 rounded;
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700;
+}
