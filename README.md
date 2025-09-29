@@ -1,6 +1,7 @@
 # carshowcase
 A responsive marketing landing page showcasing the FS Car product with specs, variant comparison, and a validated interest form built using HTML, TailwindCSS, and JavaScript.
 
+
 Tech Stack & Tools
 
 HTML5 - Used to create the page layout and organize content in a meaningful way.
@@ -8,6 +9,7 @@ HTML5 - Used to create the page layout and organize content in a meaningful way.
 TailwindCSS - Helped in designing a clean, responsive layout with ready-to-use styles like grids, text formatting, and hover effects.
 
 JavaScript - Added interactivity, such as checking form inputs (email/phone) and making the page more dynamic.
+
 
 How to Run
 
@@ -18,6 +20,7 @@ cd carshowcase
 Locate the index.html file.
 
 Open it directly in any browser.
+
 
 Features Implemented
 
@@ -30,6 +33,7 @@ Variant comparison chart - Created with Tailwind’s table styling system
 Validated user form - JavaScript regex for email/phone checks and HTML5 form attributes
 
 
+
 work in process/next step
 
 Backend integration to store form responses in a database
@@ -39,11 +43,13 @@ Add smooth scroll animations for section transitions
 Implement dark/light mode toggle using Tailwind’s theme switcher
 
 
+
 Testing
 
 Tested the form with valid and invalid inputs 
 
 Verified layout and form in Chrome and Edge browsers
+
 
 
 Learnings
