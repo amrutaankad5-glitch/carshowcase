@@ -5,7 +5,9 @@ A responsive marketing landing page showcasing the FS Car product with specs, va
 - **Tech Stack & Tools**
   
   HTML5 - Used to create the page layout and organize content in a meaningful way.
+  
   TailwindCSS - Helped in designing a clean, responsive layout with ready-to-use styles like grids, text formatting, and hover effects.
+  
   JavaScript - Added interactivity, such as checking form inputs (email/phone) and making the page more dynamic.
 
 
